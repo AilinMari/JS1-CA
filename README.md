@@ -12,18 +12,18 @@ This was our JavaScript 1 Course assignment. This is a crosscourse assignment, t
 ### Tech stack
 🖌️ CSS<br>
 🚀 HTML<br>
-👩‍💻 JavaScript
+👩‍💻 JavaScript<br>
 🧷 Consuming REST APIs <br>
 🎨 Figma
 
 I am not using frameworks for this project
 
 ## Live demo and repo link
-⏯️ <a href="https://ailinmari.github.io/tcsm/">Live demo link</a><br>
-🧭 <a href="https://github.com/AilinMari/tcsm">Repository</a>
+⏯️ <a href="https://ailinmari.github.io/JS1-CA/">Live demo link</a><br>
+🧭 <a href="https://github.com/AilinMari/JS1-CA">Repository</a>
 
 ## Description
-TCSM is a museum made to educate children and young teenagers in a **fun** and **educating** enviorment.<br> The web page is made with a colorpattern to give a more *joyful* picture, and to *inspire* kids and their parents to visit the museum. It is made for easy navigating so everybody can use it 💝
+RainyDays is rainjacket company selling rainjackets for bot male and female. I wanted to create a clean design where it was easy to know where to click next. You are able to look at the products in a thumbnailgrid on the frontpage, and also go to a detailed page about each product. You can add and remove products from your shoopping cart. And you can also filter the different products (male, female on sale or not).
 
 ## Creator
 This web page is created by Ailin-Mari the owner of the repo.<br>
