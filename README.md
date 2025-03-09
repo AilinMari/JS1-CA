@@ -1,5 +1,5 @@
 # RainyDays
-
+![image](https://github.com/user-attachments/assets/cc89f46b-2d3c-453f-8736-b1d213023992)
 ## Brief description
 This was our JavaScript 1 Course assignment. This is a crosscourse assignment, that was paired with our first **HTML** and **CSS** course assignment. Here we learned to use APIs to get the information about the products etc. that we needed to build the onlineshop.
 
